@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Hoang+Nhism+%F0%9F%91%8B;Passionate+FullStack+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/fd7d099b-0549-49e4-8522-4d6ab4b864ee" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img alt="Coding GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
-</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
