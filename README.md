@@ -96,13 +96,14 @@ const hoang = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=tokyonight&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoangNhism&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNhism&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavodyaPasqual&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNhism&theme=tokyonight&hide_border=true" />
 </div>
+
 
 <br/>
 
@@ -112,7 +113,7 @@ const hoang = {
 📚 Learning Journey 2025
 ├── 🔥 Mastering TypeScript
 ├── ⚛️ Advanced React Patterns
-├── 🚀 Node.js & Express.js
+├── 🚀 Nest.js & Next.js
 ├── 🐳 Docker & DevOps Basics
 └── 📱 Mobile Development (React Native)
 ```
